@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Keeninsky from Germany
+- 👀 I’m interested in people, Pokémon, crocheting, travelling, hiking and reading
+- 🌱 I’m currently learning Android App development in my free time
+- 💻 I'm working as an trainer/developer/consultant in webdevelopment 
